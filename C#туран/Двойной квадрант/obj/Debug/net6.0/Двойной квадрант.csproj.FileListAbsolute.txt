@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\Двойной квадрант.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\Двойной квадрант.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\Двойной квадрант.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\Двойной квадрант.AssemblyInfo.cs
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\Двойной квадрант.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#туран\Двойной квадрант\bin\Debug\net6.0\Двойной квадрант.exe
+C:\Users\User\Desktop\C#туран\Двойной квадрант\bin\Debug\net6.0\Двойной квадрант.deps.json
+C:\Users\User\Desktop\C#туран\Двойной квадрант\bin\Debug\net6.0\Двойной квадрант.runtimeconfig.json
+C:\Users\User\Desktop\C#туран\Двойной квадрант\bin\Debug\net6.0\Двойной квадрант.dll
+C:\Users\User\Desktop\C#туран\Двойной квадрант\bin\Debug\net6.0\Двойной квадрант.pdb
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\Двойной квадрант.dll
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\refint\Двойной квадрант.dll
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\Двойной квадрант.pdb
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\Двойной квадрант.genruntimeconfig.cache
+C:\Users\User\Desktop\C#туран\Двойной квадрант\obj\Debug\net6.0\ref\Двойной квадрант.dll

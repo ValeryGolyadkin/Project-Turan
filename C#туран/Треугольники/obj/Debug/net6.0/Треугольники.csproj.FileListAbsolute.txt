@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#туран\Треугольники\bin\Debug\net6.0\Треугольники.exe
+C:\Users\User\Desktop\C#туран\Треугольники\bin\Debug\net6.0\Треугольники.deps.json
+C:\Users\User\Desktop\C#туран\Треугольники\bin\Debug\net6.0\Треугольники.runtimeconfig.json
+C:\Users\User\Desktop\C#туран\Треугольники\bin\Debug\net6.0\Треугольники.dll
+C:\Users\User\Desktop\C#туран\Треугольники\bin\Debug\net6.0\Треугольники.pdb
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\Треугольники.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\Треугольники.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\Треугольники.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\Треугольники.AssemblyInfo.cs
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\Треугольники.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\Треугольники.dll
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\refint\Треугольники.dll
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\Треугольники.pdb
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\Треугольники.genruntimeconfig.cache
+C:\Users\User\Desktop\C#туран\Треугольники\obj\Debug\net6.0\ref\Треугольники.dll

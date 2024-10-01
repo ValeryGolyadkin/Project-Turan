@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Двойной квадрант/1.0.0": {
+        "runtime": {
+          "Двойной квадрант.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Двойной квадрант/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
